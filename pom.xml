@@ -28,6 +28,7 @@
 	<modules>
 		<module>microservice-provider-user</module>
 		<module>microservice-customer-movie</module>
+		<module>microservice-customer-movie-ribbon</module>
 		<module>microservice-discovery-eureka</module>
 	</modules>
 

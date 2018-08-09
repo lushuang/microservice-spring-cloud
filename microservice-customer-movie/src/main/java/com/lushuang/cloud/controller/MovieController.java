@@ -9,7 +9,7 @@ import org.springframework.web.client.RestTemplate;
 import com.lushuang.cloud.entity.User;
 
 @RestController
-public class UserController {
+public class MovieController {
 
 	@Autowired
 	private RestTemplate restTempldate;

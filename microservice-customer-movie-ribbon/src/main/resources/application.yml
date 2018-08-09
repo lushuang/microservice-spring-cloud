@@ -1,8 +1,8 @@
 spring:
   application:
-    name: microservice-customer-movie
+    name: microservice-customer-movie-ribbon
 server:
-  port: 8080
+  port: 8081
 eureka:
   client:
     serviceUrl:
