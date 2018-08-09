@@ -34,6 +34,7 @@
 		<module>microservice-customer-movie-ribbon-properties-customizing</module>
 		<module>microservice-customer-movie-ribbon-without-eureka</module>
 		<module>microservice-discovery-eureka</module>
+		<module>microservice-discovery-eureka-ha</module>
 	</modules>
 
 	<dependencyManagement>
