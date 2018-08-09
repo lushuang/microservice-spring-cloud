@@ -29,6 +29,8 @@
 		<module>microservice-provider-user</module>
 		<module>microservice-customer-movie</module>
 		<module>microservice-customer-movie-ribbon</module>
+		<module>microservice-customer-movie-ribbon-properties-customizing</module>
+		<module>microservice-customer-movie-ribbon-without-eureka</module>
 		<module>microservice-discovery-eureka</module>
 	</modules>
 
