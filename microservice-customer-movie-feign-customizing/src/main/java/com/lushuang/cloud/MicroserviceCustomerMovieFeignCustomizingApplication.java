@@ -10,9 +10,9 @@ import org.springframework.web.client.RestTemplate;
 @SpringBootApplication
 @EnableDiscoveryClient
 @EnableFeignClients
-public class MicroserviceCustomerMovieApplication {
+public class MicroserviceCustomerMovieFeignCustomizingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MicroserviceCustomerMovieApplication.class, args);
+		SpringApplication.run(MicroserviceCustomerMovieFeignCustomizingApplication.class, args);
 	}
 }
