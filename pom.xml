@@ -32,6 +32,7 @@
 		<module>microservice-customer-movie-feign-customizing</module>
 		<module>microservice-customer-movie-feign-customizing-without-hystrix</module>
 		<module>microservice-customer-movie-feign-with-hystrix</module>
+		<module>microservice-customer-movie-feign-with-hystrix-hystrix-factory</module>
 		<module>microservice-customer-movie-ribbon</module>
 		<module>microservice-customer-movie-ribbon-properties-customizing</module>
 		<module>microservice-customer-movie-ribbon-without-eureka</module>
