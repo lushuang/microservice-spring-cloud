@@ -41,6 +41,7 @@
 		<module>microservice-customer-movie-ribbon-with-hystrix-propagation</module>
 		<module>microservice-discovery-eureka</module>
 		<module>microservice-discovery-eureka-ha</module>
+		<module>microservice-hystrix-dashboard</module>
 	</modules>
 
 	<dependencyManagement>
