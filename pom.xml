@@ -42,6 +42,8 @@
 		<module>microservice-customer-movie-ribbon-with-hystrix3</module>
 		<module>microservice-customer-movie-ribbon-with-hystrix-propagation</module>
 		<module>microservice-gateway-zuul</module>
+		<module>microservice-gateway-zuul-reg-exp</module>
+		<module>microservice-file-upload</module>
 		<module>microservice-discovery-eureka</module>
 		<module>microservice-discovery-eureka-ha</module>
 		<module>microservice-hystrix-dashboard</module>
