@@ -1,11 +1,14 @@
 spring:
   application:
-    name: microservice-gateway-zuul
+    name: microservice-sidecar
 server:
-  port: 8040
+  port: 8050
 eureka:
   client:
     service-url:
       defaultZone: http://user:password123@localhost:8761/eureka
   instance:
     prefer-ip-address: true
+sidecar:
+  port: 8060
+  health-uri: http://localhost:8060/health.json

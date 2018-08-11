@@ -51,6 +51,7 @@
 		<module>microservice-hystrix-turbine</module>
 		<module>microservice-hystrix-turbine2</module>
 		<module>microservice-hystrix-turbine3</module>
+		<module>microservice-sidecar</module>
 	</modules>
 
 	<dependencyManagement>
