@@ -1,0 +1,14 @@
+server:
+  port: 8080
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/lushuang/spring-cloud-config-server
+encrypt:
+  keyStore:
+    location: classpath:/server.jks
+    password: letmein
+    alias: mytestkey
+    secret: changeme
